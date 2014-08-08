@@ -3,6 +3,11 @@ angular-hitcounter
 
 angular component to record number of hit called with angular
 
+How to install
+==========
+
+bower install angular-hitcounter --save
+
 How to used
 ==========
 

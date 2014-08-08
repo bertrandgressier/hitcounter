@@ -1,6 +1,6 @@
 {
     "name": "angular-hitcounter",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "angular component to record call number execute with $http",
     "main": "index.js",
     "scripts": {
